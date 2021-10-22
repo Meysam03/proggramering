@@ -32,6 +32,7 @@ namespace mopa
             }
 
             Console.Write("braa! Du gissade rätt. Det tog ");
+            Console.Write(försök);
             Console.WriteLine(" försök :)");
             
             
